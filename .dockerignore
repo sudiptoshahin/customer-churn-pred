@@ -1,0 +1,12 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.ipynb_checkpoints
+notebooks
+tests
+models/*.joblib
+data/raw/*.csv
+data/processed/*.csv
